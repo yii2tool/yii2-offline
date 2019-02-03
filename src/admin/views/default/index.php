@@ -7,7 +7,7 @@
 use yii\bootstrap\Alert;
 use yii\helpers\Html;
 use kartik\widgets\ActiveForm;
-use yii2lab\extension\widget\SwitchInput;
+use yii2rails\extension\widget\SwitchInput;
 
 $this->title = Yii::t('offline/main', 'title');
 
