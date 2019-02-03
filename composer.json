@@ -12,7 +12,9 @@
 	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
-			"yii2module\\offline\\": "src"
+			"yii2module\\offline\\": "src",
+			"yii2tool\\offline\\": "src",
+			"yii2tool\\offline\\tests\\": "tests"
 		}
 	},
 	"require": {
