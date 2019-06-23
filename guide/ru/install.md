@@ -20,7 +20,7 @@ return [
 	'modules' => [
 		// ...
 		'offline' => [
-			'class' => 'yii2module\offline\web\Module',
+			'class' => 'yii2tool\offline\web\Module',
 		],
 		// ...
 	],
@@ -34,7 +34,7 @@ return [
 	'modules' => [
 		// ...
 		'offline' => [
-			'class' => 'yii2module\offline\admin\Module',
+			'class' => 'yii2tool\offline\admin\Module',
 			'as access' => Config::genAccess(PermissionEnum::OFFLINE_MANAGE),
 		],
 		// ...
@@ -48,7 +48,7 @@ return [
 return [
 	'modules' => [
 		// ...
-		'offline' => 'yii2module\offline\console\Module',
+		'offline' => 'yii2tool\offline\console\Module',
 		// ...
 	],
 ];

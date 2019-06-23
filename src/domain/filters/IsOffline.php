@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2module\offline\domain\filters;
+namespace yii2tool\offline\domain\filters;
 
 use yii2rails\extension\scenario\base\BaseScenario;
 

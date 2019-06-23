@@ -1,9 +1,9 @@
 <?php
 
-namespace yii2module\offline\admin\helpers;
+namespace yii2tool\offline\admin\helpers;
 
 use yii2rails\extension\menu\interfaces\MenuInterface;
-use yii2module\offline\domain\enums\OfflinePermissionEnum;
+use yii2tool\offline\domain\enums\OfflinePermissionEnum;
 
 class Menu implements MenuInterface {
 	

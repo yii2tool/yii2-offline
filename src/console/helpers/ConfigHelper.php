@@ -1,10 +1,10 @@
 <?php
 
-namespace yii2module\offline\console\helpers;
+namespace yii2tool\offline\console\helpers;
 
 use Yii;
 use yii2rails\extension\yii\helpers\FileHelper;
-use yii2lab\init\domain\exceptions\NotInitApplicationException;
+use yii2tool\init\domain\exceptions\NotInitApplicationException;
 
 class ConfigHelper
 {

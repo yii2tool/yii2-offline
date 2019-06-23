@@ -1,12 +1,12 @@
 <?php
 
-namespace yii2module\offline\admin\controllers;
+namespace yii2tool\offline\admin\controllers;
 
 use yii2lab\navigation\domain\widgets\Alert;
 use Yii;
 use yii\web\Controller;
-use yii2module\offline\admin\forms\ModeForm;
-use yii2module\offline\console\helpers\ConfigHelper;
+use yii2tool\offline\admin\forms\ModeForm;
+use yii2tool\offline\console\helpers\ConfigHelper;
 
 class DefaultController extends Controller
 {

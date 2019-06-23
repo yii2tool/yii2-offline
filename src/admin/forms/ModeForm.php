@@ -1,5 +1,5 @@
 <?php
-namespace yii2module\offline\admin\forms;
+namespace yii2tool\offline\admin\forms;
 
 use Yii;
 use yii2lab\misc\yii\base\Model;

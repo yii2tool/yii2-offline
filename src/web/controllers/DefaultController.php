@@ -1,8 +1,8 @@
 <?php
 
-namespace yii2module\offline\web\controllers;
+namespace yii2tool\offline\web\controllers;
 
-use yii2module\offline\domain\exceptions\PreventionException;
+use yii2tool\offline\domain\exceptions\PreventionException;
 use Yii;
 use yii\web\Controller;
 
